@@ -1,1 +1,1 @@
-# OIBSIP-2024-oisip_task2
+# OIBSIP-2024.oibsip_task2
